@@ -1,9 +1,6 @@
 // See http://brunch.io for documentation.
 
 module.exports = {
-    paths: {
-        public: '.'
-    },
     files: {
         javascripts: {
             joinTo: {
