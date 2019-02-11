@@ -13,10 +13,10 @@ document.addEventListener('DOMContentLoaded', function() {
 // do your setup here
 
 
-// Hides the preloader with a fade out animation.
-preloader.hide();
-// Shows the preloader.
-preloader.show();
+// // Hides the preloader with a fade out animation.
+// preloader.hide();
+// // Shows the preloader.
+// preloader.show();
 
   $('[data-toggle="tooltip"]').tooltip();
 
