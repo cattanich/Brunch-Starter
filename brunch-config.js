@@ -5,12 +5,12 @@ module.exports = {
     //     watched: ['src']
     // },
 
-    npm: {
-        globals: {
-            $: 'jquery',
-            Popper: 'popper.js',
-        }
-    },
+    // npm: {
+    //     globals: {
+    //         $: 'jquery',
+    //         Popper: 'popper.js',
+    //     }
+    // },
     files: {
         javascripts: {
             joinTo: {
