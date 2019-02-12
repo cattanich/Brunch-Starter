@@ -1,9 +1,9 @@
 // See http://brunch.io for documentation.
 
 module.exports = {
-    paths: {
-        watched: ['src']
-    },
+    // paths: {
+    //     watched: ['src']
+    // },
     files: {
         javascripts: {
             joinTo: {
