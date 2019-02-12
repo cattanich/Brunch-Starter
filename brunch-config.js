@@ -1,12 +1,15 @@
 // See http://brunch.io for documentation.
 
 module.exports = {
+    paths: {
+        watched: ['src']
+    },
     files: {
         javascripts: {
             joinTo: {
-            	'scripts/sitio.js': /^app/,
+                'scripts/sitio.js': /^app/,
                 'scripts/vendor.js': /^node_modules/
-                
+
             }
         },
         stylesheets: {
